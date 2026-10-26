@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agline": {
+      "type": "http",
+      "url": "${AGLINE_MCP_URL:-https://agline.in/mcp}"
+    }
+  }
+}

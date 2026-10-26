@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agline",
+  "description": "AGline: let your AI agents ring you",
+  "owner": { "name": "AGline" },
+  "plugins": [
+    {
+      "name": "agline",
+      "description": "Gives Claude Code a phone line to you: it can call you for a decision, text you updates, and read your replies.",
+      "source": "./plugins/agline",
+      "category": "productivity",
+      "homepage": "https://agline.in"
+    }
+  ]
+}

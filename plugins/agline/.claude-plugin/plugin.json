@@ -1,0 +1,9 @@
+{
+  "name": "agline",
+  "description": "Gives Claude Code a phone line to you: it can call you for a decision, text you updates, and read your replies.",
+  "version": "1.0.0",
+  "author": { "name": "AGline" },
+  "homepage": "https://agline.in",
+  "repository": "https://github.com/imjarvissingh/agline-plugin",
+  "keywords": ["mcp", "phone", "notifications", "human-in-the-loop", "voice"]
+}
